@@ -1,2 +1,0 @@
-this is the first line of the text file
-this is the second line of text
